@@ -1,6 +1,6 @@
 # Task_Manager
 
-- Fetch a list of tasks from a dummy API endpoint (https://jsonplaceholder.typicode.com/todos).
+- Fetch a list of tasks from a dummy API endpoint - [JSONPlaceHolder Todos](https://jsonplaceholder.typicode.com/todos).
 - Display the list of tasks in a user-friendly format.
 - User has ability to mark tasks as completed.
 - User can add a new tasks through (+)icon button.
