@@ -1,15 +1,18 @@
-# task_manager_bytetrek
+# Task_Manager
 
-A new Flutter project.
+● Fetch a list of tasks from a dummy API endpoint (https://jsonplaceholder.typicode.com/todos).
+● Display the list of tasks in a user-friendly format.
+● User has ability to mark tasks as completed.
+● User can add a new tasks through (+)icon button.
+● User can view Loaded Pending Tasks and Completed Tasks.
+  - When user scroll the list tasks will be loaded.
+
+# Packages
+
+http: ^0.13.3
+provider: ^6.0.1
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
