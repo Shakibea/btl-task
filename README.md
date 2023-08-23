@@ -10,8 +10,8 @@
 
 # Packages
 
-http: ^0.13.3
-provider: ^6.0.1
+- http: ^0.13.3
+- provider: ^6.0.1
 
 ## Getting Started
 
